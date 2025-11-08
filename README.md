@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Adaptive_Multilingual_Keyboard_Banner" alt="Adaptive Multilingual Keyboard Banner">
+</p>
+
 # adaptive-multilingual-keyboard
 Concept by Emilio De Alba — An intelligent keyboard that automatically detects and adapts to the language being typed.
 
