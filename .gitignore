@@ -1,0 +1,40 @@
+# ====== OS / Editor Files ======
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ====== Office / Document backups ======
+~$*.docx
+*.bak
+*.tmp
+
+# ====== VS Code / JetBrains IDEs ======
+.vscode/
+.idea/
+*.code-workspace
+
+# ====== Python / AI development (future-proofing) ======
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pkl
+*.model
+
+# ====== Android / Gradle (for later MVP) ======
+.gradle/
+build/
+local.properties
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+*.log
+
+# ====== Misc ======
+.env
+dist/
+*.swp
+*.swo
