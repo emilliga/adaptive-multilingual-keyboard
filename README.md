@@ -11,7 +11,7 @@ Concept by Emilio De Alba — An intelligent keyboard that automatically detects
   <img src="https://img.shields.io/badge/Status-Concept%20Stage-yellow.svg" alt="Project Status">
 </p>
 
-<h1 align="center">🧠 Adaptive Multilingual Keyboard</h1>
+<h1 align="center"> Adaptive Multilingual Keyboard</h1>
 <p align="center">
   <i>Concept by <b>Emilio De Alba</b> — November 2025</i><br>
   <b>A smart keyboard that automatically detects and adapts to the language you're typing.</b>
@@ -20,7 +20,7 @@ Concept by Emilio De Alba — An intelligent keyboard that automatically detects
 ---
 
 
-🧠 Adaptive Multilingual Keyboard
+Adaptive Multilingual Keyboard
 
 Concept by Emilio De Alba – November 2025
 
